@@ -9,6 +9,3 @@ My Network API Handler for Linux 🐧 and Windows 🪟 Users to access their Loc
 Stable: Version 0.0.0
 </div>
 
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [Seal](https://github.com/JunkFood02/Seal)
