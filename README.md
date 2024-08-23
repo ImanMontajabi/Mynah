@@ -4,4 +4,6 @@
 
 # Mynah-GUI
 
-Video/Audio Downloader for Linux 🐧 and Windows 🪟 (GUI version)
+Video/Audio Downloader for Linux 🐧 and Windows 🪟
+
+GUI version
