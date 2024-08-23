@@ -4,4 +4,4 @@
 
 # Mynah
 
-Video/Audio Downloader for Linux
+Video/Audio Downloader for Linux 🐧 and Windows 🪟
