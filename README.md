@@ -7,3 +7,8 @@
 Video/Audio Downloader for Linux 🐧 and Windows 🪟
 
 Stable: Version 0.0.0
+</div>
+
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [Seal](https://github.com/JunkFood02/Seal)
