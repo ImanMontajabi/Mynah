@@ -4,7 +4,7 @@
 
 # Mynah
 
-My Network API Handler for Linux 🐧 and Windows 🪟 Users to access their Local files from anywhere with an AI assistant
+My Network API Handler to access Local files from anywhere with an AI assistant
 
 Stable: Version 0.0.0
 </div>
