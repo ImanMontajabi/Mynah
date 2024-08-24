@@ -12,5 +12,5 @@ Stable: Version `0.0.0`
 📜 License: The only condition for using this project is that you don’t cage birds. Birds belong in the sky. Let them enjoy the freedom of flying in nature during their short lives, and encourage others to do the same.
 
 <div align="center">
-به یاد جوجه باهوش ترین پرنده‌ی جهان 🖤
+به یاد جوجه 🖤 باهوش ترین پرنده‌ی جهان
 </div>
