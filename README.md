@@ -6,7 +6,7 @@
 
 My Network API Handler to access Local files from anywhere with an AI assistant
 
-Stable: Version 0.0.0
+Stable: Version `0.0.0`
 </div>
 
 📜 License: The only condition for using this project is that you don’t cage birds. Birds belong in the sky. Let them enjoy the freedom of flying in nature during their short lives, and encourage others to do the same.
